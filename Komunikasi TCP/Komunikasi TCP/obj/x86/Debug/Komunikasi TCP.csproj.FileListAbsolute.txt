@@ -1,0 +1,7 @@
+C:\Users\Mhs\Desktop\Praktikum Komunikasi TCP\Komunikasi TCP\Komunikasi TCP\bin\Debug\Komunikasi TCP.exe
+C:\Users\Mhs\Desktop\Praktikum Komunikasi TCP\Komunikasi TCP\Komunikasi TCP\bin\Debug\Komunikasi TCP.pdb
+C:\Users\Mhs\Desktop\Praktikum Komunikasi TCP\Komunikasi TCP\Komunikasi TCP\obj\x86\Debug\Komunikasi_TCP.Form1.resources
+C:\Users\Mhs\Desktop\Praktikum Komunikasi TCP\Komunikasi TCP\Komunikasi TCP\obj\x86\Debug\Komunikasi_TCP.Properties.Resources.resources
+C:\Users\Mhs\Desktop\Praktikum Komunikasi TCP\Komunikasi TCP\Komunikasi TCP\obj\x86\Debug\Komunikasi TCP.csproj.GenerateResource.Cache
+C:\Users\Mhs\Desktop\Praktikum Komunikasi TCP\Komunikasi TCP\Komunikasi TCP\obj\x86\Debug\Komunikasi TCP.exe
+C:\Users\Mhs\Desktop\Praktikum Komunikasi TCP\Komunikasi TCP\Komunikasi TCP\obj\x86\Debug\Komunikasi TCP.pdb
